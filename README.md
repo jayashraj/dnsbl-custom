@@ -16,7 +16,7 @@ A customised DNSBL blocked page.
 
 ## Light
 
-![Dark](Screenshots/dnsbl_dark.png)
+![Dark](Screenshots/dnsbl_light.png)
 
 ## How To
 
